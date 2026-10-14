@@ -3,12 +3,15 @@ Organisation Paradigms
 # Naming Paradigms & Definitions of Modules.
 
 - Component
+
 A constructed module that functions as one part in a larger module.
 
 - Class
-\nA constructed module that defines a new Object-Oriented Class.
+
+A constructed module that defines a new Object-Oriented Class.
 
 - Manager
+
 A constructed module that manages a wide variety of tasks in a given area. (e.g., AbilityManager)
 
 - Handler
