@@ -40,7 +40,7 @@ A central module that handles one specific aspect of the game. (e.g., SoundHandl
 		- AbilityManager.lua
 		- GameInventoryManager.lua
 		- GlobalInventoryManager.lua
-  - Objects
+	- Objects
 		- CharacterClass.lua
 		- WeaponClass.lua
 	- ServerMain.luau
