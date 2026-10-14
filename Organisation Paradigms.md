@@ -1,5 +1,3 @@
-Organisation Paradigms
-
 # Naming Paradigms & Definitions of Modules.
 
 - Component
