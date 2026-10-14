@@ -15,12 +15,13 @@ A constructed module that defines a new Object-Oriented Class.
 A constructed module that manages a wide variety of tasks in a given area. (e.g., AbilityManager)
 
 - Handler
+
 A central module that handles one specific aspect of the game. (e.g., SoundHandler, AnimationHandler, EnvironmentHandler, PhysicsHandler.)
 
 # General Project Structure
 
 - ServerScriptService
-  - Components
+	- Components
 		- Entity
 			- HealthComponent.lua
 			- PhysicalComponent.lua
