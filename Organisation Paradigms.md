@@ -6,7 +6,7 @@ Organisation Paradigms
 A constructed module that functions as one part in a larger module.
 
 - Class
-A constructed module that defines a new Object-Oriented Class.
+\nA constructed module that defines a new Object-Oriented Class.
 
 - Manager
 A constructed module that manages a wide variety of tasks in a given area. (e.g., AbilityManager)
